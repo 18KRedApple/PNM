@@ -1,4 +1,48 @@
 import React from 'react';
+import {
+  CalculationPage,
+  CalculationsPage,
+  ChangeLogPage,
+  CoveredNotCoveredPage,
+  CoveredNotCoveredSettingsPage,
+  CSRPlanComparePage,
+  CSRPlanPage,
+  CSRPlansPage,
+  DocumentsPage,
+  LegalEntitiesPage,
+  LegalEntitiesSettingsPage,
+  LegalEntityComparePage,
+  LegalEntityPage,
+  LoginPage,
+  ManageTrapPackageXwalkPage,
+  ManageYearsPage,
+  MasterHiosPage,
+  OneSourceTrapExtractPage,
+  PlanComparePage,
+  PlanComponentComparePage,
+  PlanComponentPage,
+  PlanComponentsPage,
+  PlanComponentsSettingsPage,
+  PlanPage,
+  PlansPage,
+  ReportsPage,
+  SBCCalculationsOutputLoadPage,
+  TemplateCreatePage,
+  TemplateEditPage,
+  TemplatesPage,
+  //
+  TrapBenefitsPackagesPage,
+  TrapBenefitsPacakgeDetailPage,
+  TrapHiosPage,
+  TrapHiosAssignmenMatrixPage,
+  TrapHomePage,
+  TrapIssueDetailPage,
+  TrapIssuersPage,
+  TrapPlanDesignsPage,
+  TrapReportsPage
+  //
+} from "./components/pages";
+
 import logo from './logo.svg';
 import './App.css';
 
